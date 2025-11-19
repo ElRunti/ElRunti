@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/HAmSnqaAYngUpeaifT/giphy.gif" alt="Banner Nyan Cat" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lxa2FtMmllNmFqZTlzc2Q0eHJ5dW5hdDBkbDRtc3R6dThpaXgwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VGuAZNdkPUpEY/giphy.gif" alt="Banner Nyan Cat" width="100%" />
 </p>
 
 # 👋 Hola, soy Rubén 
